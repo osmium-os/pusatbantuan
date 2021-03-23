@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pemutusan Hubungan Kerja on Pusat Bantuan</title>
+    <link>https://examplesite.com/phk/</link>
+    <description>Recent content in Pemutusan Hubungan Kerja on Pusat Bantuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021 Bidang Kepesertaan &amp; Pelayanan Peserta BPJS Kesehatan Kantor Cabang Jakarta Pusat</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://examplesite.com/phk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syarat Pemutusan Hubungan Kerja</title>
+      <link>https://examplesite.com/phk/syarat-pemutusan-hubungan-kerja/</link>
+      <pubDate>Sat, 29 Dec 2018 11:02:05 +0600</pubDate>
+      
+      <guid>https://examplesite.com/phk/syarat-pemutusan-hubungan-kerja/</guid>
+      <description>Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+This is a simple note.
+ This is a simple tip.
+ This is a simple info.
+  This is first tab  this is second tab  this is third tab    Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi.</description>
+    </item>
+    
+  </channel>
+</rss>

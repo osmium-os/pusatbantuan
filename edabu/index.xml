@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edabu on Pusat Bantuan</title>
+    <link>https://examplesite.com/edabu/</link>
+    <description>Recent content in Edabu on Pusat Bantuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2021 Bidang Kepesertaan &amp; Pelayanan Peserta BPJS Kesehatan Kantor Cabang Jakarta Pusat</copyright>
+    <lastBuildDate>Fri, 28 Dec 2018 11:02:05 +0600</lastBuildDate><atom:link href="https://examplesite.com/edabu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://examplesite.com/edabu/edabu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/edabu/edabu/</guid>
+      <description>Will updates also be free?    Lorem, link ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum?</description>
+    </item>
+    
+  </channel>
+</rss>
