@@ -67,6 +67,14 @@ Orang yang ditunjuk melalui rekrutmen di masing-masing Kantor Cabang BPJS Keseha
 
 Media yang dapat digunakan Calon Peserta atau Peserta Jaminan Kesehatan dalam melakukan proses administrasi kepesertaan meliputi pendaftaran dan mutasi data kepesertaan serta pemberian informasi dan penanganan pengaduan Peserta.
 
+### Kartu Izin Tinggal Terbatas (KITAS)
+
+Izin yang diberikan kepada orang asing pemegang izin tinggal sementara di Indonesia.
+
+### Kartu Izin Tinggal Tetap (KITAP)
+
+Kartu yang diberikan kepada Warga Negara Asing yang akan tinggal di Indonesia untuk waktu yang lama. Jangka waktu KITAP adalah 5 tahun dan dapat diperpanjang untuk jangka waktu yang tidak terbatas dengan ketentuan sepanjang Izin Tinggalnya tidak dibatalkan.
+
 ### Mobile Customer Service (MCS)
 
 Titik pelayanan berupa mobil yang dilengkapi dengan infrastruktur pendukung operasional pelayanan peserta untuk pendaftaran, perubahan data, cetak kartu dan pemberian informasi dan penanganan pengaduan.
@@ -78,6 +86,11 @@ Setiap orang yang bekerja atau berusaha atas risiko sendiri.
 ### Pekerja Penerima Upah (PPU)
 
 Setiap orang yang bekerja pada pemberi kerja dengan menerima gaji atau upah.
+
+### Pemutusan Hubungan Kerja (PHK)
+
+Pengakhiran hubungan kerja karena suatu hal tertentu yang mengakibatkan berakhirnya hak dan kewajiban antara pekerja/buruh dan pemberi kerja berdasarkan peraturan perundang-undangan.
+
 
 ### Pendaftaran Online
 
@@ -99,6 +112,14 @@ Petugas Rumah Sakit yang ditunjuk oleh Manajemen Rumah Sakit untuk melaksanakan 
 
 Duta BPJS Kesehatan yang ditunjuk untuk melaksanakan kegiatan yang berkaitan dengan penanganan pengaduan peserta di Rumah Sakit melalui koordinasi dengan unit kerja
 terkait serta pengelolaan dokumen/data/informasi/laporan dan korespondensi secara optimum yang berkaitan dengan rumah sakit yang menjadi tanggung jawabnya.
+
+### Surat Keterangan Untuk Mendapatkan Tunjangan Keluarga/SKUMPTK/KP4/KU1
+
+Surat keterangan untuk mendapatkan pembayaran tunjangan keluarga.
+
+### Surat Keterangan Sekolah/Kuliah
+
+Keterangan resmi yang dikeluarkan oleh Sekolah/Perguruan Tinggi/Lembaga Pendidikan Formal yang masa pendidikannya minimal 1 (satu) tahun. 
 
 ### Unit Penanganan Pengaduan Peserta (UP3)
 

@@ -36,7 +36,6 @@ font_family = "lato" # Choose font family from : https://fonts.google.com/
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 
-
 ############################## social links ##############################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
@@ -78,7 +77,6 @@ content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor.
 enable = true
 label = "contact us"
 link = "contact"
-
 
 ################## bahasa navigation #################
 [[Languages.id.menu.main]]
