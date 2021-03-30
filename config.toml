@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "http://pusatbantuan-kcjakpus.com/"
+baseURL = "https://pusatbantuan-kcjakpus.com/"
 # theme
 theme = ["dot-hugo-documentation-theme"]
 # site title
