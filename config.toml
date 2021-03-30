@@ -2,7 +2,7 @@
 # provide your domain here
 baseURL = "http://pusatbantuan-kcjakpus.com/"
 # theme
-theme = ["dot-hugo"]
+theme = ["dot-hugo-documentation-theme"]
 # site title
 title = "Pusat Bantuan"
 # disable language
