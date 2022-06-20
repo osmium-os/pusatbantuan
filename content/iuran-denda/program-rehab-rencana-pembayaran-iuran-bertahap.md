@@ -8,5 +8,5 @@ draft: false
 keywords: ["BPJS", "Kesehatan", "Pembayaran", "Iuran", "Bertahap"]
 ---
 
-![Program Rehab](../../static/images/rehab2.jpg)
-![Program Rehab](../../static/images/rehab2.jpg)
+![Program Rehab](rehab2.jpg)
+![Program Rehab](rehab2.jpg)
