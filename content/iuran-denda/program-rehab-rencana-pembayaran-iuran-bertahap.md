@@ -10,8 +10,4 @@ keywords: ["BPJS", "Kesehatan", "Pembayaran", "Iuran", "Bertahap", "Program", "R
 
 ![Program Rehab](https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/19/516674998.jpeg)
 ![Program Rehab](https://www.hariansib.com/photo/berita/dir042022/_7577_800-KK-Ikuti-Program-Rehab-BPJS-Kesehatan-Medan.jpg)
-![Rehab Video](IMG_1334.MP4)
-
-<video width="320" height="240" controls>
-  <source src="IMG_1334.MP4" type="video/mp4">
-</video>
+![Rehab Video](https://www.youtube.com/watch?v=YyJtZVdDJkA)
