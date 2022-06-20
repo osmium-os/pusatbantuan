@@ -8,5 +8,5 @@ draft: false
 keywords: ["BPJS", "Kesehatan", "Pembayaran", "Iuran", "Bertahap"]
 ---
 
-![Program Rehab](rehab2.jpg)
+![Program Rehab](https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/01/19/516674998.jpeg)
 ![Program Rehab](rehab2.jpg)
