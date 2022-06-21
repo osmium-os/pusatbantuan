@@ -9,3 +9,5 @@ keywords: ["BPJS", "Kesehatan", "Autodebet", "Iuran", "Mitra", "Penyelenggara"]
 ---
 
 | No | Nama Mitra | Sumber Pendanaan | Tanggal Pendebetan | Akses Pendaftaran |
+| --- | --- | --- | --- | --- |
+| 1 | Bank Mandiri | Rekening Tabungan | 5 dan 20 | Mobile JKN, Website BPJS Kesehatan, Kantor Cabang Bank, Kantor Cabang BPJS Kesehatan |
